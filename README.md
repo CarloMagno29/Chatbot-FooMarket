@@ -35,3 +35,8 @@
 - [x] Seleccionar un método de pago y ubicacionde entrega para delivery. 
 - [x] Mostrar los horarios de trabajo y zonas de delivery.
 - [x] Crear factura personalizada enviada vía e-mail.
+
+### Visita nuestros repositorios 
+
+- [Monolithic](https://github.com/diegoarff/Chatbot-FooMarket-Monolithic)
+- [Serverless](https://github.com/diegoarff/Chatbot-FooMarket-Serverless)
